@@ -1,1 +1,1 @@
-Coursera Data Science Specializatio Capstone Project. 
+Coursera Data Science Specialization Capstone Project. 
